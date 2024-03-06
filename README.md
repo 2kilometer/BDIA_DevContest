@@ -1,2 +1,26 @@
-# BDIA_DevContest
-2023 BDIA Dev Contest
+# 눈 개폐비율을 활용한 졸음운전 감지 모델
+<img src="https://github.com/2kilometer/2kilometer/blob/0e5a08a57a521278cf0883e593c5a1d9d8aadb75/images/BDIA_DevContest.png" width="80%">
+
+<br>
+
+## 1. 프로젝트 목적
+- **팀 목표** : 주시태만과 졸음운전 간 상관관계를 인지하여 눈 개폐 비율을 기반으로 졸음인식 E2E (End to End) 서비스 구현
+- **개인 목표** : OpenCV 활용 및 클린코드로 협업
+
+<br>
+
+## 2. 프로젝트 기간 및 참여인원
+📅 2023.10.07~2023.10.20 (**2주**) / 👥 8명
+
+<br>
+
+## 3. 담당 역할
+- dlib와 face_landmarks를 활용하여 눈 탐지 및 개폐비율 처리 작업
+
+- [사이드 프로젝트] 스파게티 코드를 클린코드로 변환
+  [🔗](사이드_프로젝트(리팩토링).ipynb)
+  
+<br>
+  
+### 4. 교훈
+- 협업 및 디버깅 효율화를 위한 클린코드 작성이 중요
